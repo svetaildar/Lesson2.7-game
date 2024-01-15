@@ -31,7 +31,6 @@ do
 }
 while (game == true)
 
-const a1;
 
 
 
